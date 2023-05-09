@@ -6,7 +6,7 @@ I have an interest in a wide range of areas (Including Web Development and Embed
 
 <!--<p><img src="https://streak-stats.demolab.com?user=samster395&theme=dark&mode=weekly"><p>-->
 
-[![](https://visitcount.itsvg.in/api?id=samster395&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=samster395&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
 **ToXIc-Dev/ToXIc-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
