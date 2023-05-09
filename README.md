@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, Im Sam 👋
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues&count_private=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=chartreuse-dark&hide=css,starlark"><p>
+
+<!--<p><img src="https://streak-stats.demolab.com?user=samster395&theme=dark&mode=weekly"><p>-->
+
+[![](https://visitcount.itsvg.in/api?id=samster395&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!--
 **ToXIc-Dev/ToXIc-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
