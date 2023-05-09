@@ -2,9 +2,9 @@
 
 I have an interest in a wide range of areas (Including Web Development and Embedded stuff like Arduino)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=chartreuse-dark&hide=css,starlark" height="170"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=transparent&include_all_commits=true&hide=issues&count_private=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=transparent&hide=css,starlark" height="170"><p>
 
-<!--<p><img src="https://streak-stats.demolab.com?user=samster395&theme=dark&mode=weekly"><p>-->
+<!--<p><img src="https://streak-stats.demolab.com?user=samster395&theme=transparent&mode=weekly"><p>-->
 
 [![](https://visitcount.itsvg.in/api?id=samster395&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
