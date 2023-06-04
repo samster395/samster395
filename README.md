@@ -1,6 +1,6 @@
 ### Hi there, Im Sam 👋
 
-I have an interest in a wide range of areas (including web development and embedded stuff like Arduino)
+I have an interest in a wide range of areas, including web development and embedded stuff like Arduino.
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=prussian&include_all_commits=true&hide=issues&count_private=true?"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=prussian&hide=css,starlark?" height="170"><p>
 
