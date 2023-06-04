@@ -1,4 +1,4 @@
-### Hi there, Im Sam 👋
+### Hey there, I'm Sam 👋
 
 I have an interest in a wide range of areas, including web development and embedded stuff like Arduino.
 
