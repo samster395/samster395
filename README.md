@@ -4,7 +4,7 @@ I have an interest in a wide range of areas, including web development, [3D Prin
 
 I also have a keen interest in photography, if you're interested, you can check out my photos [here](https://samsstills.co.uk/).
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=prussian&include_all_commits=true&hide=issues&count_private=true?"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=prussian&hide=css,starlark?" height="170"><p>
+<!--<p><img src="https://github-readme-stats.vercel.app/api?username=samster395&show_icons=true&theme=prussian&include_all_commits=true&hide=issues&count_private=true?"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samster395&layout=compact&theme=prussian&hide=css,starlark?" height="170"><p>-->
 
 <!--<p><img src="https://streak-stats.demolab.com?user=samster395&theme=transparent&mode=weekly"><p>-->
 
