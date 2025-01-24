@@ -1,6 +1,6 @@
 ### Hey there, I'm Sam 👋
 
-I have an interest in a wide range of areas, including web development, [3D Printing](https://www.printables.com/@samster395) and embedded stuff like Arduino.
+I have an interest in a wide range of areas, including web development, embedded stuff like Arduino and [3D Printing](https://www.printables.com/@samster395), I also created an [Empty filament spool weight database](https://emptyspool.github.io/).
 
 I also have a keen interest in photography, if you're interested, you can check out my photos [here](https://samsstills.co.uk/).
 
